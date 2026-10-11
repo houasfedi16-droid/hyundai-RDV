@@ -1,0 +1,6 @@
+« Mon application est un système full-stack de gestion des rendez-vous Hyundai, développé avec React, Node.js et MySQLLaragon. Elle intègre l’authentification avec Keycloak, la vérification OTP, la gestion administrateur, le scan OCR assisté des véhicules, le suivi des paiements, les notifications et l’assistance par chatbot. »
+
+
+
+
+
